@@ -1,0 +1,17 @@
+#print function
+print("hello \ "hello\' ")
+
+#escape sequence
+print("line A \tlineB")
+print(this is backslash \\\\")
+
+#escape sequence as normal text
+print(r"line A \n line B")
+
+
+  #python as calculater
+print(2+3)
+print(4//2)
+#variables
+name = "yaswanth"
+print(name)
