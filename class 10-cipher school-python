@@ -1,0 +1,3 @@
+print("line A\nline B\n line C")
+print("name \tyaswanth")
+print("this is double backslash\\\\")
