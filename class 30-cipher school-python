@@ -1,0 +1,2 @@
+print("Yaswanth"[0::4])
+print("Yaswanth"[5::-1])
