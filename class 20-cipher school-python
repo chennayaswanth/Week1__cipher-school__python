@@ -1,0 +1,7 @@
+#strings
+#collection of characters inside single quotes or double quotes
+
+first_name = "yaswanth"
+last_name = "chenna"
+full_name = first_name + " " + last_name
+print(full_name)
