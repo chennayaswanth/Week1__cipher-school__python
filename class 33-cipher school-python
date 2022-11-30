@@ -1,0 +1,5 @@
+name = "YaswNth CHennA"
+length = len(name)
+print(length)
+print(name.lower())
+print(name.upper())
