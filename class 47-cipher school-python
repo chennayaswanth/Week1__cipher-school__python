@@ -1,0 +1,6 @@
+name = 'abc'
+age = 18
+if name=='abcd' or age==18:
+    print("condition True")
+else:
+    print("condition False")
