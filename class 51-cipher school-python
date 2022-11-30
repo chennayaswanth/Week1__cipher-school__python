@@ -1,0 +1,5 @@
+name = "Yaswanth"
+if 'Y' in "Yaswanth":
+    print("Y is present in name")
+else:
+    print("not present")
