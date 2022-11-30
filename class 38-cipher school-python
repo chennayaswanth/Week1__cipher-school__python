@@ -1,0 +1,3 @@
+#center method
+name = "yaswanth"
+print(name.center(11,"*")
