@@ -1,0 +1,4 @@
+ # string indexing
+language = "python"
+
+print(language[5])
